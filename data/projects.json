@@ -1,0 +1,92 @@
+[
+	{
+		"title": "Cloud Cost Forecasting Dashboard",
+		"category": "Data",
+		"date": "Summer 2026",
+		"icon": "bi-graph-up-arrow",
+		"description": "Power BI dashboard that turns a raw monthly cloud billing export into spend trends and year-end forecasts.",
+		"technologies": [ "Power BI", "Excel", "Forecasting" ],
+		"highlights": [
+			"Converted a billing export of thousands of rows into a clean reporting model",
+			"Built a spend trend view, a live current-month tracker, and year-end cost forecasts",
+			"Used for budget planning by the team"
+		]
+	},
+	{
+		"title": "AI Incident Intake Agent",
+		"category": "AI",
+		"date": "Summer 2026",
+		"icon": "bi-robot",
+		"description": "Copilot Studio agent prototype that standardizes how users report SAP issues and writes structured summaries for triage.",
+		"technologies": [ "Copilot Studio", "Prompt Engineering", "SAP" ],
+		"highlights": [
+			"Designed a guided intake conversation so every report captures the same key details",
+			"Generates structured summaries to speed up incident triage"
+		]
+	},
+	{
+		"title": "Recognition Program Survey Analysis",
+		"category": "Data",
+		"date": "Summer 2026",
+		"icon": "bi-clipboard-data",
+		"description": "Designed an employee feedback survey, analyzed the results, and built an Excel dashboard with adoption recommendations.",
+		"technologies": [ "Excel", "Survey Design", "Data Visualization" ],
+		"highlights": [
+			"Designed and distributed the survey",
+			"Analyzed response data and visualized key findings",
+			"Delivered recommendations to improve program adoption"
+		]
+	},
+	{
+		"title": "Customer Churn Prediction",
+		"category": "Data",
+		"date": "Spring 2025",
+		"icon": "bi-cpu",
+		"description": "Chickasaw Nation case competition project predicting customer churn from behavioral and demographic data.",
+		"technologies": [ "Python", "Machine Learning", "Power BI" ],
+		"highlights": [
+			"Analyzed trip frequency, free play redemption, demographics, and churn indicators",
+			"Built a machine learning model on historical customer data to predict churn",
+			"Presented findings through Power BI dashboards"
+		]
+	},
+	{
+		"title": "Markets+ AI Chatbot Content",
+		"category": "AI",
+		"date": "Summer 2025",
+		"icon": "bi-chat-dots",
+		"description": "Curated and improved the documentation behind a CustomGPT chatbot for energy market processes.",
+		"technologies": [ "CustomGPT", "Technical Writing", "UX" ],
+		"highlights": [
+			"Updated technical documentation on SPP Markets+ processes",
+			"Improved content relevance and user experience",
+			"Increased chatbot engagement by 60%"
+		]
+	},
+	{
+		"title": "GL Dining Website Redesign",
+		"category": "Web",
+		"date": "Fall 2026",
+		"icon": "bi-shop",
+		"description": "Team project building a mobile-first umbrella website for a Norman restaurant group with two concepts.",
+		"technologies": [ "HTML", "CSS", "JavaScript", "Bootstrap", "GitHub" ],
+		"highlights": [
+			"Owned site content and copy for both restaurants",
+			"Contributed to client requirements and competitor website research",
+			"Co-leading the final client presentation"
+		]
+	},
+	{
+		"title": "Personal Portfolio Website",
+		"category": "Web",
+		"date": "Fall 2026",
+		"icon": "bi-person-badge",
+		"description": "This site. A multi-page portfolio with dynamic project loading, filtering, and animations.",
+		"technologies": [ "HTML", "CSS", "JavaScript", "Bootstrap", "JSON" ],
+		"highlights": [
+			"Projects load from JSON using fetch()",
+			"Category filtering and detail modals built in JavaScript",
+			"Custom styling on top of Bootstrap components"
+		]
+	}
+]
